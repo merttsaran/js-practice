@@ -9,13 +9,13 @@ I am currently learning from the YouTube course:
 
 ## Topics Covered
 
-- Variables
-- Data Types
-- Operators
-- Functions
-- Arrays
-- Objects
-- DOM Manipulation (coming soon)
+- Numbers and Math
+- 
+- 
+- 
+- 
+- 
+- 
 - 
 
 ## Goal
