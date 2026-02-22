@@ -10,10 +10,10 @@ I am currently learning from the YouTube course:
 ## Topics Covered
 
 - Numbers and Math
-- 
-- 
-- 
-- 
+- Order of Operations and Brackets
+- Calculated the numbers in final project
+- Calculations using floats can be inaccurate
+- Math.round()
 - 
 - 
 - 
