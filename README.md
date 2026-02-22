@@ -14,8 +14,9 @@ I am currently learning from the YouTube course:
 - Calculated the numbers in final project
 - Calculations using floats can be inaccurate
 - Math.round()
-- 
-- 
+- Basics of strings
+- Escape Characters
+- Interpolation
 - 
 
 ## Goal
