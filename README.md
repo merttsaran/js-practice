@@ -19,6 +19,7 @@ I am currently learning from the YouTube course:
 - Interpolation
 - Script element and onclick attribute
 - console.log practice
+- Variables
 - 
 
 ## Goal
