@@ -18,6 +18,8 @@ I am currently learning from the YouTube course:
 - Escape Characters
 - Interpolation
 - Script element and onclick attribute
+- console.log practice
+- 
 
 ## Goal
 
