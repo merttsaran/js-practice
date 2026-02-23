@@ -17,7 +17,7 @@ I am currently learning from the YouTube course:
 - Basics of strings
 - Escape Characters
 - Interpolation
-- 
+- Script element and onclick attribute
 
 ## Goal
 
