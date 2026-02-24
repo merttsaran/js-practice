@@ -20,7 +20,7 @@ I am currently learning from the YouTube course:
 - Script element and onclick attribute
 - console.log practice
 - Variables
-- 
+- Booleans
 
 ## Goal
 
