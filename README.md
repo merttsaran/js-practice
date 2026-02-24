@@ -21,6 +21,8 @@ I am currently learning from the YouTube course:
 - console.log practice
 - Variables
 - Booleans
+- Comparison Operators
+- 
 
 ## Goal
 
