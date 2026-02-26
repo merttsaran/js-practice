@@ -22,7 +22,7 @@ I am currently learning from the YouTube course:
 - Variables
 - Booleans
 - Comparison Operators
-- 
+- Algorithms
 
 ## Goal
 
