@@ -21,8 +21,10 @@ I am currently learning from the YouTube course:
 - console.log practice
 - Variables
 - Booleans
-- Comparison Operators
+- Comparison and logical operators
 - Algorithms
+- Shortcuts for if-statements (ternary, guard, default)
+- 
 
 ## Goal
 
