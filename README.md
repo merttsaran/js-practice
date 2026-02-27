@@ -24,6 +24,7 @@ I am currently learning from the YouTube course:
 - Comparison and logical operators
 - Algorithms
 - Shortcuts for if-statements (ternary, guard, default)
+- Functions
 - 
 
 ## Goal
