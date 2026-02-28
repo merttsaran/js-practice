@@ -25,6 +25,7 @@ I am currently learning from the YouTube course:
 - Algorithms
 - Shortcuts for if-statements (ternary, guard, default)
 - Functions and Parameters
+- Objects
 - 
 
 ## Goal
