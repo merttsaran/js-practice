@@ -26,6 +26,7 @@ I am currently learning from the YouTube course:
 - Shortcuts for if-statements (ternary, guard, default)
 - Functions and Parameters
 - Objects
+- JSON.parse, JSON.stringify and localStorage
 - 
 
 ## Goal
