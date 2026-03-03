@@ -4,8 +4,19 @@
     <title>DOM</title>
   </head>
   <body>
+    <button>hello</button>
+    <button class="js-button">Second button</button>
+
     <script>
-     
+      document.querySelector('button').innerHTML;
+      document.querySelector('button')
+        .innerHTML = 'Changed';
+
+      const buttonElement = document.querySelector('.js-button');  
+
+      /*
+      document.body.innerHTML = 'hello';
+      */
     </script>
   </body>
 </html>
