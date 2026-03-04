@@ -27,8 +27,9 @@ I am currently learning from the YouTube course:
 - Functions and Parameters
 - Objects
 - JSON.parse, JSON.stringify and localStorage
-- Document Objec Model (DOM)
-- 
+- Document Object Model (DOM)
+- document.querySelector(...), innerHTML, onkeydown="...", changing a string to number
+-  
 
 ## Goal
 
