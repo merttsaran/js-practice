@@ -54,12 +54,15 @@
       function updateCartQuantity(change) {
         if (cartQuantity + change > 10) {
           alert ('The cart is full');
-        } else if (cartQuantity + change < 0) {
+          return;
+        } 
+          if (cartQuantity + change < 0) {
           alert ('Not enough items in the cart');
-        } else {
-          cartQuantity += change;
-          console.log(`Cart Quantity ${cartQuantity}`);
+          return;
         }
+
+        cartQuantity += change;
+        console.log(`Cart Quantity ${cartQuantity}`);
       }
     </script>
   </body>
