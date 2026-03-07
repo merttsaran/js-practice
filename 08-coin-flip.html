@@ -10,11 +10,10 @@
     <button onclick="playGame('tails')">tails</button>
 
     <script>
-
-      let score = {
+      const score = JSON.parse(localStorage.getItem('score')) || {
         wins: 0,
-        loses: 0
-      };
+        losses: 0
+      }
 
       function playGame(guess) {
         const randomNumber = Math.random();
@@ -25,9 +24,11 @@
           if (guess === result) {
             score.wins++;
           } else {
-            score.loses++;
+            score.losses++;
           }
           console.log(score);
+
+          localStorage.setItem('score', JSON.stringify(score));
       }
 
     </script>
