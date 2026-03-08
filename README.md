@@ -18,7 +18,6 @@ I am currently learning from the YouTube course:
 - Escape Characters
 - Interpolation
 - Script element and onclick attribute
-- console.log practice
 - Variables
 - Booleans
 - Comparison and logical operators
@@ -29,7 +28,8 @@ I am currently learning from the YouTube course:
 - JSON.parse, JSON.stringify and localStorage
 - Document Object Model (DOM)
 - document.querySelector(...), innerHTML, onkeydown="...", changing a string to number
--  
+- HTML, CSS, JavaScript Together
+- 
 
 ## Goal
 
