@@ -19,6 +19,26 @@
 
     <p class="js-total-cost"></p>
 
+    <button>9a</button>
+    <button class="js-button">9b</button>
+
+    <input placeholder="Name" class="js-name-input"
+    onkeydown="
+    if (event.key === 'Enter') {
+      const inputElement = document.querySelector('.js-name-input');
+      document.querySelector('.js-message')
+        .innerHTML = `Your name is: ${inputElement.value}`;
+    }
+    ">
+
+    <button onclick="
+      const inputElement = document.querySelector('.js-name-input');
+      document.querySelector('.js-message')
+        .innerHTML = `Your name is: ${inputElement.value}`;
+    ">Submit</button>
+
+    <p class="js-message"></p>
+
 
     <script>
       function handleCostKeydown(event) {
@@ -47,6 +67,12 @@
           buttonElement.innerHTML = 'Subscribe';
         }
       }
+
+
+      console.log(document.querySelector('button'));
+      
+      document.querySelector('.js-button')
+        .innerHTML = '9b done!';
     
     </script>
   </body>
