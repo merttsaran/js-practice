@@ -30,6 +30,8 @@ I am currently learning from the YouTube course:
 - document.querySelector(...), innerHTML, onkeydown="...", changing a string to number
 - HTML, CSS, JavaScript Together
 - Complete rock paper scissors mini game with UI and localStorage score tracking
+- classList property
+- Organize JS and CSS code into separate files
 - 
 
 ## Goal
