@@ -29,6 +29,7 @@ I am currently learning from the YouTube course:
 - Document Object Model (DOM)
 - document.querySelector(...), innerHTML, onkeydown="...", changing a string to number
 - HTML, CSS, JavaScript Together
+- Complete rock paper scissors mini game with UI and localStorage score tracking
 - 
 
 ## Goal
