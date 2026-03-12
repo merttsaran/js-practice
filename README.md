@@ -32,7 +32,7 @@ I am currently learning from the YouTube course:
 - Complete rock paper scissors mini game with UI and localStorage score tracking
 - classList property
 - Organize JS and CSS code into separate files
-- 
+- Arrays & Loops
 
 ## Goal
 
