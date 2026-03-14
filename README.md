@@ -33,6 +33,8 @@ I am currently learning from the YouTube course:
 - classList property
 - Organize JS and CSS code into separate files
 - Arrays & Loops
+- Destructuring
+- 
 
 ## Goal
 
