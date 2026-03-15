@@ -34,6 +34,7 @@ I am currently learning from the YouTube course:
 - Organize JS and CSS code into separate files
 - Arrays & Loops
 - Destructuring
+- More Feature of Loops: break, continue, loops inside a function
 - 
 
 ## Goal
