@@ -35,6 +35,7 @@ I am currently learning from the YouTube course:
 - Arrays & Loops
 - Destructuring
 - More Feature of Loops: break, continue, loops inside a function
+- Advanced Functions
 - 
 
 ## Goal
