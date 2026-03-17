@@ -5,6 +5,7 @@
   </head>
   <body>
     <script>
+      /*
       function greeting() {
         console.log('hello');
       }
@@ -30,6 +31,19 @@
         console.log(param);
       }
       display(2);
+
+      function run(param) {
+        param();
+      }
+
+      run(function() {
+        console.log('hello4');
+      });
+      */
+
+      setTimeout(function() {
+        console.log('timeout');
+      }, 3000);
     </script>
   </body>
 </html>
