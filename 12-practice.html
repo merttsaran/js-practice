@@ -144,8 +144,8 @@
       isDisplayingNotification = true;
 
       intervalId = setInterval(function() {
-        if (document.title = 'App') {
-          document.title = `(${messages})New Messages`;
+        if (document.title === 'App') {
+          document.title = `(${messages}) New Messages`;
         } else {
           document.title = 'App';
         }
@@ -157,7 +157,6 @@
         clearInterval(intervalId);
         document.title = 'App';
       }
-    
 
     </script>
   </body>

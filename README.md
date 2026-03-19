@@ -36,7 +36,7 @@ I am currently learning from the YouTube course:
 - Destructuring
 - More Feature of Loops: break, continue, loops inside a function
 - Advanced Functions
-- 
+- Arrow Function
 
 ## Goal
 
