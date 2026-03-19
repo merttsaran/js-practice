@@ -9,6 +9,17 @@
 
     <button class="js-button2" onclick="addToCartButton()">Add to cart</button>
     <p class="js-message"></p>
+
+    <button onclick="messages++; displayNotification();">Add</button>
+    <button onclick="
+      if (messages > 0) {
+        messages--;
+
+        if (messages === 0) {
+          stopNotification();
+        }
+      }
+      ">Remove</button>
     <script>
       /*
       function greeting() {
@@ -116,14 +127,37 @@
         }, 2000)
       }
 
-      setInterval(function() {
+      let messages = 2;
+
+      let intervalId;
+
+      let isDisplayingNotification;
+
+      displayNotification();
+
+      function displayNotification() {
+        if (isDisplayingNotification) {
+          return;
+        }
+      }
+
+      isDisplayingNotification = true;
+
+      intervalId = setInterval(function() {
         if (document.title = 'App') {
-          document.title = '(2) New Messages';
+          document.title = `(${messages})New Messages`;
         } else {
           document.title = 'App';
         }
       }, 1000)
-      
+
+      function stopNotification() {
+        isDisplayingNotification = false;
+
+        clearInterval(intervalId);
+        document.title = 'App';
+      }
+    
 
     </script>
   </body>
