@@ -26,9 +26,16 @@
             playGame(playerMove);
           }, 1000);
           isAutoPlaying = true;
+
+          document.querySelector('.js-autoplay-button')
+            .innerHTML = 'Stop Playing';
+
         } else {
           clearInterval(intervalId);
           isAutoPlaying = false;
+
+          document.querySelector('.js-autoplay-button')
+            .innerHTML = 'Auto Play';
         }
       }
 
@@ -59,6 +66,8 @@
           playGame('paper');
         } else if (event.key === 's') {
           playGame('scissors');
+        } else if (event.key === 'a') {
+          autoPlay();
         }
       });
         
